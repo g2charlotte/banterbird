@@ -1,6 +1,18 @@
 [
     {
         "username": "admin",
+        "message": "this banterbird is our very new test website\n"
+    },
+    {
+        "username": "admin",
+        "message": "this is banterbird, it is our test website\n"
+    },
+    {
+        "username": "admin",
+        "message": "heyyy\n"
+    },
+    {
+        "username": "admin",
         "message": "kahfd\n"
     },
     {
